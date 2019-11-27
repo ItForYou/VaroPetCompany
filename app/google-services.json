@@ -1,0 +1,406 @@
+{
+  "project_info": {
+    "project_number": "800006699440",
+    "firebase_url": "https://ddrreeaamm-7927f.firebaseio.com",
+    "project_id": "ddrreeaamm-7927f",
+    "storage_bucket": "ddrreeaamm-7927f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:25c6e2c780c0774a",
+        "android_client_info": {
+          "package_name": "com.dreamforone.factstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-h5jb0pia7e6egp0ojvbmag4qchthae26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamforone.factstock",
+            "certificate_hash": "5888fd27d1381f4050d6cf98f0de64f9950de3d4"
+          }
+        },
+        {
+          "client_id": "800006699440-gjmqkumj0eptkk5dtisa6mtdm0o575fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamforone.factstock",
+            "certificate_hash": "a1b2c33b0919e11f8d5a82bf100130064ed0ae96"
+          }
+        },
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800006699440-n8erkfvcqm6b2v1sc5hso3pn1kb1d3g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamforone.ssum"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:b64a05d9d3881f7c",
+        "android_client_info": {
+          "package_name": "com.dreamforone.jipgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-op1p64bbkip5ek274b1vb120cr6tdlce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamforone.jipgo",
+            "certificate_hash": "a1b2c33b0919e11f8d5a82bf100130064ed0ae96"
+          }
+        },
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800006699440-n8erkfvcqm6b2v1sc5hso3pn1kb1d3g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamforone.ssum"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:b06d44d57f33f10c",
+        "android_client_info": {
+          "package_name": "dreamforone.com.taptoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-s708bopiijnvc0lig2kd145nov7bgdaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dreamforone.com.taptoc",
+            "certificate_hash": "a1b2c33b0919e11f8d5a82bf100130064ed0ae96"
+          }
+        },
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800006699440-n8erkfvcqm6b2v1sc5hso3pn1kb1d3g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamforone.ssum"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:cb3a7473965815d7",
+        "android_client_info": {
+          "package_name": "kr.foryou.bace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:5c4a2570755af841",
+        "android_client_info": {
+          "package_name": "kr.foryou.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:b436b91e2f5cd70d",
+        "android_client_info": {
+          "package_name": "kr.foryou.petcall24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:e3d8f48f518b1d4c",
+        "android_client_info": {
+          "package_name": "kr.foryou.sinwoosoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:718a00aaefcd8c21",
+        "android_client_info": {
+          "package_name": "kr.foryou.varopetcompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-6f16qlk6q1so35upgkdv9k86cnp5m593.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.foryou.varopetcompany",
+            "certificate_hash": "0aeac3f6d49f8dac1e8970dfa307aa9946e34ba2"
+          }
+        },
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800006699440-n8erkfvcqm6b2v1sc5hso3pn1kb1d3g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamforone.ssum"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:8b75f739d26a95bc",
+        "android_client_info": {
+          "package_name": "kr.foryou.veropetcustom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-94317qpp9lkpe81ulooblh5m3h9vaoo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.foryou.veropetcustom",
+            "certificate_hash": "0aeac3f6d49f8dac1e8970dfa307aa9946e34ba2"
+          }
+        },
+        {
+          "client_id": "800006699440-jg15nfm9rl20e6j25ies135derl8onig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.foryou.veropetcustom",
+            "certificate_hash": "a1b2c33b0919e11f8d5a82bf100130064ed0ae96"
+          }
+        },
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800006699440-n8erkfvcqm6b2v1sc5hso3pn1kb1d3g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamforone.ssum"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
